@@ -1,7 +1,15 @@
 # -Algorithms
 
+![](algo.jpg)
 > A universal repository for the students of Russia dedicated to UN Ed Inititative
 
+## Navigation
+
+    ├───sorting
+    │   ├───bubble
+    ├───search
+    │   ├───binary
+    │   ├───linear
 
 
 ## TODO
